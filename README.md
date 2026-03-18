@@ -1,3 +1,3 @@
 # ansible
 
-laba01 - Лабораторная 1
+[laba01](https://github.com/Infrar3dd/ansible/tree/main/laba01) - Лабораторная 1
